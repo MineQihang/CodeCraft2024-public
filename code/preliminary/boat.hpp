@@ -1,5 +1,6 @@
 #pragma once
 #pragma GCC optimize("O2")
+#include "map.hpp"
 
 int my_score;
 
